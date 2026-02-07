@@ -1,4 +1,4 @@
-# app.py
+# app.py - A simple Flask application that serves an HTML template.
 from flask import Flask, render_template
 
 app = Flask(__name__)
