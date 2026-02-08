@@ -1,0 +1,40 @@
+   Customer's Code : 1   Customer's Name :- Mohamed 
+   Passport No.:- N10583831    Passenger Name :- SEETHA RAMACHANDRAN 
+********************************************************* 
+   Date :- 09/01/23 
+   Description :- GCC 
+   Amount :- Rs. 4,500.00 
+------------------------------- 
+   Date :- 09/01/23 
+   Description :- MEDICAL CASH TRANSFER TO MOHD ACCOUNT 
+   Amount :- Rs. 28,000.00 
+------------------------------- 
+   Date :- 09/06/23 
+   Description :- Cash Cheque 100000/- 85,000/- N10589812 
+   Amount :- Rs. 15,000.00 
+------------------------------- 
+   Date :- 09/08/23 
+   Description :- PR 
+   Amount :- Rs. 3,000.00 
+------------------------------- 
+   Date :- 09/18/23 
+   Description :- Transfer to R M S DAMIKA Account 
+   Amount :- Rs. 70,000.00 
+------------------------------- 
+   Date :- 09/19/23 
+   Description :- T M NISHAD ACCOUNT 
+   Amount :- Rs. 30,000.00 
+------------------------------- 
+   Date :- 09/24/23 
+   Description :- Transfer to Careem 
+   Amount :- Rs. 64,000.00 
+------------------------------- 
+   Date :- 09/25/23 
+   Description :- Transfer to Mohamed Account 
+   Amount :- Rs. 7,000.00 
+------------------------------- 
+   Date :- 09/25/23 
+   Description :- Balance Payment 
+   Amount :- Rs. 428,500.00 
+------------------------------- 
+   Total Amount :- Rs. 650,000.00

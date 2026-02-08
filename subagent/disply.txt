@@ -1,0 +1,92 @@
+   Customer's Code : 2   Customer's Name :- Anis 
+   Passport No.:- N11011172    Passenger Name :- DAMAYANTHI FONSEKA K D 
+********************************************************* 
+   Date :- 11/17/25 
+   Description :- Advance 
+   Amount :- Rs. 5,000.00 
+------------------------------- 
+   Date :- 11/18/25 
+   Description :- GCC 
+   Amount :- Rs. 4,000.00 
+------------------------------- 
+   Date :- 11/18/25 
+   Description :- Medical and advance 
+   Amount :- Rs. 40,000.00 
+------------------------------- 
+   Date :- 12/03/25 
+   Description :- Transfer 18/11 
+   Amount :- Rs. 5,000.00 
+------------------------------- 
+   Date :- 12/03/25 
+   Description :- Transfer 
+   Amount :- Rs. 15,000.00 
+------------------------------- 
+   Date :- 12/11/25 
+   Description :- PR 
+   Amount :- Rs. 15,000.00 
+------------------------------- 
+   Date :- 12/11/25 
+   Description :- Another journey Cancel 
+   Amount :- Rs. 16,000.00 
+------------------------------- 
+   Date :- 12/19/25 
+   Description :- Immigration letter 
+   Amount :- Rs. 11,000.00 
+------------------------------- 
+   Date :- 12/19/25 
+   Description :- Transfer 
+   Amount :- Rs. 150,000.00 
+------------------------------- 
+   Date :- 12/21/25 
+   Description :- Transfer 
+   Amount :- Rs. 4,000.00 
+------------------------------- 
+   Date :- 12/24/25 
+   Description :- Hm Transfer 
+   Amount :- Rs. 35,000.00 
+------------------------------- 
+   Date :- 12/24/25 
+   Description :- Cheque dated 30/12 
+   Amount :- Rs. 200,000.00 
+------------------------------- 
+   Date :- 12/26/25 
+   Description :- transfer 
+   Amount :- Rs. 3,000.00 
+------------------------------- 
+   Date :- 12/27/25 
+   Description :- Transfer 
+   Amount :- Rs. 5,000.00 
+------------------------------- 
+   Date :- 12/27/25 
+   Description :- Ticket Reconfirm 
+   Amount :- Rs. 38,600.00 
+------------------------------- 
+   Date :- 12/29/25 
+   Description :- Transfer 
+   Amount :- Rs. 5,000.00 
+------------------------------- 
+   Date :- 12/30/25 
+   Description :- Transfer 
+   Amount :- Rs. 5,000.00 
+------------------------------- 
+   Date :- 12/31/25 
+   Description :- Transfer 
+   Amount :- Rs. 100,000.00 
+------------------------------- 
+   Date :- 01/02/26 
+   Description :- Transfer 
+   Amount :- Rs. 15,000.00 
+------------------------------- 
+   Date :- 01/02/26 
+   Description :- refund 
+   Amount :- Rs. -100,000.00 
+------------------------------- 
+   Date :- 01/19/26 
+   Description :- Transfer 
+   Amount :- Rs. 28,400.00 
+------------------------------- 
+   Date :- 01/22/26 
+   Description :- Transfer 
+   Amount :- Rs. 25,000.00 
+------------------------------- 
+   Total Amount :- Rs. 625,000.00
