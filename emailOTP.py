@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template_string
+from flask import Flask, request, render_template
 from flask_mail import Mail, Message
 import random
 
@@ -17,7 +17,7 @@ mail = Mail(app)
 # Temporary storage (for testing only)
 generated_otp = None
 
-
+"""
 @app.route('/')
 def home():
     return '''
@@ -27,6 +27,12 @@ def home():
         </form>
     '''
 
+
+
+"""
+@app.route('/')
+def home():
+    return render_template("index.html")
 
 @app.route('/send_otp', methods=['POST'])
 def send_otp():
