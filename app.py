@@ -65,25 +65,31 @@ def verify_otp():
 def upload_page():
     return render_template("upload.html")
 
+import os
 
 @app.route('/upload_cv', methods=['POST'])
 def upload_cv():
     file = request.files['cv']
     user_email = session.get('email')
+    otp = session.get('otp')
 
-    if file:
-        # Create folder with email name
+    if file and user_email and otp:
+
         user_folder = os.path.join(app.config['UPLOAD_FOLDER'], user_email)
-
         os.makedirs(user_folder, exist_ok=True)
 
-        file_path = os.path.join(user_folder, file.filename)
+        # Count existing files to create resume_1, resume_2...
+        existing_files = os.listdir(user_folder)
+        resume_number = len(existing_files) + 1
+
+        filename = f"{otp}_resume_{resume_number}.pdf"
+
+        file_path = os.path.join(user_folder, filename)
         file.save(file_path)
 
         return "CV uploaded successfully ✅"
 
-    return "No file selected"
-
+    return "Upload failed ❌"
 
 if __name__ == '__main__':
     app.run(debug=True)
