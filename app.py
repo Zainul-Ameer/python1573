@@ -1,7 +1,9 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, session
+import random
+
 
 app = Flask(__name__)
-
+app.secret_key = "super-secret-key"  # change later
 @app.route("/", methods=["GET", "POST"])
 def home():
     if request.method == "POST":
@@ -11,3 +13,8 @@ def home():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+
+
+app = Flask(__name__)
+app.secret_key = "super-secret-key"  # change later
